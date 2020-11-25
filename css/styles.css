@@ -118,6 +118,7 @@ header a {
   grid-column: 1;
   font-size: 0.9em;
   margin: 5px;
+  text-align: left;
 }
 
 .products--sale {
